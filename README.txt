@@ -32,7 +32,7 @@ You can check that the class has been compiled by typing the command
 -----RUNNING THE PROGRAM-----
 
 We can now run our program using the command
-"java com.bt.seach.Main [Argumnets] < [input file]"
+"java com.bt.seach.Main [Arguments] < [input file]"
 
 For example, to test the program with the given surnames.txt file in Phonetic_Search\src and
 with the names Jones and Winton, we would use the command
