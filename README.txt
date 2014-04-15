@@ -2,6 +2,9 @@ BT Phonetic Search program
 
 by Thomas Bottjer
 
+This program was written in Eclipse Indigo on Windows 7 Service Pack 1.
+
+
 -----BUILDING THE PROGRAM IN WINDOWS-----
 
 To build the Main program from the command line, first change the directory to the 
